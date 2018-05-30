@@ -1,0 +1,11 @@
+C:\Users\ES\source\repos\JWT1\JWT1\obj\Debug\netcoreapp2.0\JWT1.csproj.CoreCompileInputs.cache
+C:\Users\ES\source\repos\JWT1\JWT1\obj\Debug\netcoreapp2.0\JWT1.AssemblyInfoInputs.cache
+C:\Users\ES\source\repos\JWT1\JWT1\obj\Debug\netcoreapp2.0\JWT1.AssemblyInfo.cs
+C:\Users\ES\source\repos\JWT1\JWT1\bin\Debug\netcoreapp2.0\JWT1.deps.json
+C:\Users\ES\source\repos\JWT1\JWT1\bin\Debug\netcoreapp2.0\JWT1.runtimeconfig.json
+C:\Users\ES\source\repos\JWT1\JWT1\bin\Debug\netcoreapp2.0\JWT1.runtimeconfig.dev.json
+C:\Users\ES\source\repos\JWT1\JWT1\bin\Debug\netcoreapp2.0\JWT1.dll
+C:\Users\ES\source\repos\JWT1\JWT1\bin\Debug\netcoreapp2.0\JWT1.pdb
+C:\Users\ES\source\repos\JWT1\JWT1\obj\Debug\netcoreapp2.0\JWT1.dll
+C:\Users\ES\source\repos\JWT1\JWT1\obj\Debug\netcoreapp2.0\JWT1.pdb
+C:\Users\ES\source\repos\JWT1\JWT1\obj\Debug\netcoreapp2.0\JWT1.csprojResolveAssemblyReference.cache
